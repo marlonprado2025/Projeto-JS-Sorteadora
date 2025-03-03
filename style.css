@@ -47,16 +47,15 @@ input{
 
 
 .result-number{
-    background: #ace01b;
-    margin-top: 30px;
-    height:80px;
-    width: 200px;
-    
-    font-weight: 500;
-    font-size: 30px;
+    background: #b9ec2d;
+    margin-top: 40px;
+    border-radius:20px;
+    width: 100px;
+    font-weight:650;
+    font-size: 50px;
     text-align: center;
-    color: #ffffff;
-    opacity: 0.8;
+    color: #c90909;
+ 
 }
 .input-min{margin-right: 70px;}
 input::-webkit-inner-spin-button{-webkit-appearance: none;}
