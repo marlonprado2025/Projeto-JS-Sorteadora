@@ -1,4 +1,4 @@
-<h1>Pagina de sorteio de números</h1>
+<h1>Página de sorteio de números</h1>
 
 <p>Tecnologias utilizadas:</p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -8,5 +8,3 @@
 
 <img src="https://github.com/marlonprado2025/Projeto-JS-Sorteadora/blob/main/sorte.PNG?raw=true">
 
-<style>
-  h1{color: #ebd408;}
